@@ -1,3 +1,1 @@
-# automaton-fxs
-
-Bunch of automaton fxs
+# Merged to https://github.com/FMS-Cat/automaton !
